@@ -1,5 +1,5 @@
 {
-    "name": "koori/validation",
+    "name": "Kooroshh/validation",
     "autoload": {
         "psr-4": {
             "KooriValidation\\": "src/"
