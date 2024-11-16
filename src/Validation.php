@@ -8,4 +8,14 @@ class Validation
         return isset($data[$field]);
     }
 
+    public function get()
+    {
+
+    }
+
+    public function set()
+    {
+        
+    }
+
 }
