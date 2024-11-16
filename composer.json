@@ -11,5 +11,7 @@
             "name": "koorosh"
         }
     ],
-    "require": {}
+    "require": {
+        "php":">= 7.0"
+    }
 }
