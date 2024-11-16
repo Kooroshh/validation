@@ -5,6 +5,7 @@
             "KooriValidation\\": "src/"
         }
     },
+    "license": "MTI",
     "authors": [
         {
             "name": "koorosh"
