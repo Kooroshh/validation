@@ -1,0 +1,14 @@
+{
+    "name": "koori/validation",
+    "autoload": {
+        "psr-4": {
+            "KooriValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "koorosh"
+        }
+    ],
+    "require": {}
+}
